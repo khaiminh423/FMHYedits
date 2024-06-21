@@ -26,7 +26,6 @@
 * [Eternal Dream Arabization](https://www.etrdream.com/) - Modern / Official / Retro Games Arabic Localization
 * [Ataraxia](https://www.ataraxia-translations.com/) - Visual Novels / Games Arabic Localization
 
-
 ## ▷ Torrenting / التورنت
 
 * [ArabP2P](https://www.arabp2p.net/) - Video / Private Tracker
@@ -39,6 +38,7 @@
 * [egydead](https://egydead.space/) - Movies / TV / Anime / Sub / 1080p
 * [dramacafe](https://w10.dramacafe-tv.com/) - Movies / TV / Anime / Sub / 1080p
 * [akwam](https://ak.sv/) - Movies / TV / Sub / 1080p
+* [CinemaTy](https://66dogdol.shop/) - Movies / TV / Anime / Sub / 1080p
 * [arabseed](https://m.asd.quest/) - Movies / TV / Wrestling / Sub / 1080p
 * [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p
 * [AnimeTak](https://animetak.top/) - Anime / Sub / 1080p
@@ -290,9 +290,9 @@
 
 ***
 
-# ► Filipino
+# ► Filipino / Pinoy
 
-## ▷ Streaming
+## ▷ Streaming / Nanonood 
 
 * [Movies Ni Pipay](https://moviesnipipay.me/) - Movies / TV / Sub / 1080p
 * [Pinoy Movies Hub](https://pinoymovieshub.mx/) - Movies / TV / Sub / Dub / 720p
@@ -899,6 +899,7 @@ https://aniwow.in/ has only dubs though
 * [SevilMusic](https://sevilmusic.com/) - Music / MP3
 * [Just Music](https://just-music.ir/) - Classical Music / MP3
 * [Pixinema](https://www.pixinema.ir/) - Soundtracks
+* [farsroid](https://www.farsroid.com/) - APKs
 * [TelFiles_Bot](https://t.me/TelFiles_Bot) - File to Direct Link Telegram Bot
 * [TeleLeecherbot](https://t.me/TeleLeecherbot) or [kLeechBot](https://t.me/kLeechBot) - Movie Leech Telegram Bots
 * [FilmgramBot](https://t.me/FilmgramBot) or [FileMovieBot](https://t.me/FileMovieBot) - Movie Search Telegram Bots
@@ -1776,28 +1777,23 @@ https://aniwow.in/ has only dubs though
 * [HHNinja](https://hhninja4.tv/) - Chinese Animation / Sub / 1080p
 * [PHIMHHTQ](https://phimhhtq.vip/) - Chinese Animation / Anime / Sub
 * [VuiGhe](https://vuighe3.com/) - Anime / Sub / 720p
-* [AnimeTVN](https://animetvn4.com/) - Anime
-* [animevietsub](https://animevietsub.fun/) - Anime
-* [Ani4u](https://ani4u.org/) - Anime
-* [AnimeVSub](https://animevsub.eu.org/) - Anime / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
-* [Unime](https://unime.vercel.app/) - Anime
-* [AnimeHay](https://animehay.blog/) - Anime
-* [AnimeTVN](https://animetvn.com/) - Anime
-* [Anime47](https://anime47.pro/) - Anime
-* [HHTQ](https://hhtrungquoc5.com/) - Chinese Anime / Sub / 720p
-* [POPS](https://pops.vn/) - Anime / Cartoon
-* [Tokuvn](https://tokuvn.com/) - Tokusatsu
-* [Mocha](https://video.mocha.com.vn/) - Video
-* [MyClip](https://myclip.vn/) - Video
-* [TVOnline](https://tvtructuyen.vn/) - Live TV
+* [AnimeTVN](https://animetvn4.com/) - Anime / Chinese Animation / Sub / 1080p
+* [animevietsub](https://animevietsub.dev/) - Anime / Chinese Animation / Sub / 1080p
+* [Ani4u](https://ani4u.org/) -  Anime / Sub / 1080p
+* [AnimeVSub](https://animevsub.eu.org/) - Anime / Chinese Animation / Sub / 1080p / [Extension](https://github.com/anime-vsub/extension-animevsub-helper)
+* [AnimeHay](https://animehay.bio/) - Anime / Chinese Animation / Sub / 1080p
+* [Anime47](https://anime47.lol/) - Anime / Chinese Animation / Sub
+* [Tokuvn](https://tokuvn.com/) - Tokusatsu / Sub
+* [Mocha](https://video.mocha.com.vn/) - Video / 1080p
+* [MyClip](https://myclip.vn/) - Video / 1080p
 * [VTVGo](https://vtvgo.vn/) - Live TV
-* [TV360](https://tv360.vn/) - Live TV
-* [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV
-* [Xtv](https://xemtiviviet.net/) - Live TV
+* [TV360](https://tv360.vn/) - Live TV / Sub / 1080p
+* [TVHayHD](http://xemtv.tvhayhd.tv/) - Live TV / 720p
+* [Xtv](https://xemtiviviet.net/) - Live TV / 1080p
 * [6SVN](https://xem.6svn.com/) - Live TV
-* [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie
+* [vieon](https://vieon.vn/) - Live TV / TV show / Anime / Cartoon / Movie / 1080p / Sub / Dub
 * [FPTplay](https://fptplay.vn/) - Live TV / TV show / Anime / Cartoon / Movie
-* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show
+* [HPlus](https://hplus.com.vn/), [2](https://htvc.com.vn/) - Live TV / TV Show / 1080p
 * [THVL](https://www.thvli.vn/) - Live TV / TV Show
 * [VTC](https://portal.vtc.gov.vn/live) - Live TV
 * [ZingMP3](https://zingmp3.vn/) - Music
